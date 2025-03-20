@@ -1,0 +1,90 @@
+.wrapper{
+ width: 50%; 
+ margin:0 auto;
+ border: 6px  solid  #ddd;
+}
+.style1{
+      text-align: center;
+}
+
+label{
+   font-size:20px;
+ } 
+ 
+.name{
+     width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+  }      
+
+.fathers_name{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+}
+
+.mothers_name{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+}
+
+.permanent_address{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+ }
+
+ .present_address{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+
+ }  
+
+ .mobile_no{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+
+ }  
+
+ .email{
+      width: 40%;
+      height: 25px;
+       padding: 10px;
+        font-size:20px;
+
+
+ }  
+
+ .dob{
+      width: 20%;
+      height: 15px;
+       padding: 10px;
+        font-size:15px;
+
+
+ }  
+
+.signup{
+      font-size: 20px;
+      background-color: MediumSeaGreen;
+
+}
+.signup:hover{
+      background-color: LightGray;
+}
+
